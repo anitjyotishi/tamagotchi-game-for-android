@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_06c83192a629ebef5071dfb50202579068f130ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf25d81deba45c16b7ea3311f2924cb865a65c0a">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_476a4456eaff3f778d859a633c7cd9bb5b4198ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6e65642a86002bda031c67c3a11344818194d5d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_46d11e7c1a70a8981bec8e2e08c806b0ae8bfdbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0d10706f0b15ade7a9a48e9717236db7a22fa82">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\instant-run_40604590f749eb255caf047bf669cbf1cc2e9034.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_3b508600aa0350310fe2202f8e3e0dc80be057db.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ab56f7af353162839155d75fbd420c1b78874719.jar" />
+    </item>
+    <item
+        jar="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\chintan24\AndroidStudioProjects\tamagotchigo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_a946ac52f278cb228a90f05312244d5c3b4fc4ad.jar" />
+    </item>
+
+</items>

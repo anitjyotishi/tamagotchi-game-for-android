@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:example="http://schemas.android.com/apk/res/com.example.prefstest">
+
+    <PreferenceCategory
+        android:title="Settings" >
+
+        <Preference
+    	    android:title="About"
+    	    android:summary="Information about Game"
+    	    android:selectable="true"/>
+    	<Preference 
+    	    android:title="Interface"
+			android:summary="This is the first setting"
+    	    android:selectable="true"
+    	    android:key="key_setting2"/>
+    	
+ 	</PreferenceCategory>	   
+</PreferenceScreen>

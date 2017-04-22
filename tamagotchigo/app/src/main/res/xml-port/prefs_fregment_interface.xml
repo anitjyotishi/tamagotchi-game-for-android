@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:example="http://schemas.android.com/apk/res/com.example.prefstest">
+
+    <PreferenceCategory
+        android:title="Interface" >
+
+        <Preference
+            android:title="Restart"
+            android:summary="Start new Game"
+            android:key="restart"
+            android:selectable="true"/>
+        <CheckBoxPreference
+            android:title="Text to Speech Sound"
+            android:summary="sound for TTs"
+            android:key="tts_sound"
+            android:defaultValue="true"
+            android:selectable="true"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
